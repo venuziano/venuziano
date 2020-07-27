@@ -1,4 +1,19 @@
-### Hi there 👋
+### Olá!! 👋:man_technologist:
+
+Me chamo Rafael e atualmente trabalho como Analista de Produtos em uma empresa do interior do Rio grande do Sul - Brasil.
+
+Nas horas vagas curto ler sobre programação e tudo que é relacionado a tecnologias. Estudo e me aventuro no desenvolvimento de aplicações web e app's em NodeJs, ReactJS e React Native. :nerd_face: :books:
+
+Graduado em Bacharel de Sistemas de Informação. :mortar_board:
+
+Amante e entusiasta da tecnologia Blockchain, a qual foi tema do meu trabalho de conclusão de curso. :cupid: :sparkling_heart:
+
+## Projetos finalizados: :heavy_check_mark:
+* [BeTheHero](https://github.com/venuziano/BeTheHero) - semana OmniStack da RocketSeat
+* [RollDice](https://github.com/venuziano/RollDice) - jogo para rolar dados em js puro
+* [SmartAuth](https://github.com/venuziano/SmartAuth) - desenvolvido no TCC
+
+### LOVE MEME'S :trollface: AND PIZZA :pizza:
 
 <!--
 **venuziano/venuziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
