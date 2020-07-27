@@ -15,7 +15,7 @@ Amante e entusiasta da tecnologia Blockchain, a qual foi tema do meu trabalho de
 
 ### LOVE MEME'S :trollface: AND PIZZA :pizza:
 
-
+![](coding.gif)
 CODING!! CODING!! CODING!!
 <!--
 **venuziano/venuziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
