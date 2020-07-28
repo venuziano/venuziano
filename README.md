@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafaelRodr1gues/)](www.linkedin.com/in/rafaelRodr1gues/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.silva@universo.univates.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.silva@universo.univates.br)](rafael.silva@universo.univates.br)
+
 ### Olá! 👋:man_technologist:
 
 Me chamo Rafael e atualmente trabalho como Analista de Produtos em uma empresa do interior do Rio grande do Sul - Brasil.
