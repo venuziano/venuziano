@@ -1,5 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafaelRodr1gues/)](www.linkedin.com/in/rafaelRodr1gues/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.silva@universo.univates.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.silva@universo.univates.br)](rafael.silva@universo.univates.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelRodr1gues/)](https://www.linkedin.com/in/rafaelRodr1gues/) 
+[![Gmail Badge](https://img.shields.io/badge/-rafael.silva@universo.univates.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.silva@universo.univates.br)](mailto:rafael.silva@universo.univates.br)
 
 ### Olá! 👋:man_technologist:
 
