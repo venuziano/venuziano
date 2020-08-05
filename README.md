@@ -16,6 +16,10 @@ Amante e entusiasta da tecnologia Blockchain, a qual foi tema do meu trabalho de
 * [RollDice](https://github.com/venuziano/RollDice) - jogo para rolar dados em js puro
 * [SmartAuth](https://github.com/venuziano/SmartAuth) - desenvolvido no TCC
 
+## Em desenvolvimento: :construction:
+
+* [Proffys](https://github.com/venuziano/Proffys) - semana Next Level da RocketSeat
+
 ### LOVE MEME'S :trollface: AND PIZZA :pizza:
 
 <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"></img>
