@@ -13,12 +13,9 @@ Amante e entusiasta da tecnologia Blockchain, a qual foi tema do meu trabalho de
 
 ## Projetos finalizados: :heavy_check_mark:
 * [BeTheHero](https://github.com/venuziano/BeTheHero) - semana OmniStack da RocketSeat
+* [Proffys](https://github.com/venuziano/Proffys) - semana Next Level da RocketSeat
 * [RollDice](https://github.com/venuziano/RollDice) - jogo para rolar dados em js puro
 * [SmartAuth](https://github.com/venuziano/SmartAuth) - desenvolvido no TCC
-
-## Em desenvolvimento: :construction:
-
-* [Proffys](https://github.com/venuziano/Proffys) - semana Next Level da RocketSeat
 
 ### LOVE MEME'S :trollface: AND PIZZA :pizza:
 
