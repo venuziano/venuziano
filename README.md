@@ -9,7 +9,7 @@ Estudo e me aventuro no desenvolvimento de aplicações *web* e *app's* em **Nod
 
 Formado em Sistemas de Informação. :mortar_board:
 
-Amante e entusiasta da tecnologia Blockchain, a qual foi tema do meu trabalho de conclusão de curso. :cupid: :sparkling_heart:
+Amante e entusiasta da tecnologia Blockchain, onde a utilizei no meu trabalho de conclusão de curso. :cupid: :sparkling_heart:
 
 ## Projetos finalizados: :heavy_check_mark:
 * [BeTheHero](https://github.com/venuziano/BeTheHero) - semana OmniStack da RocketSeat
