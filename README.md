@@ -5,7 +5,7 @@
 
 Trabalhando atualmente como Analista de Produtos em uma empresa do interior do Rio grande do Sul - Brasil.
 
-Estudo e me aventuro no desenvolvimento de aplicações *web* e *app's* em **NodeJs**, **ReactJS** && **React Native** e aplicações descentralizadas (*dapp's*) com *smart contracts* na linguagem **Solidity**. :nerd_face: :books:
+Estudo e me aventuro no desenvolvimento de aplicações *web* e *app's* em **NodeJs**, **ReactJS** && **React Native**, **TypeScript** e aplicações descentralizadas (*dapp's*) com *smart contracts* na linguagem **Solidity**. :nerd_face: :books:
 
 Formado em Sistemas de Informação. :mortar_board:
 
