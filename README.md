@@ -9,12 +9,6 @@ Formado em Sistemas de Informação. :mortar_board:
 
 Amante e entusiasta da tecnologia Blockchain, onde a utilizei no meu trabalho de conclusão de curso. :cupid: :sparkling_heart:
 
-## Projetos finalizados: :heavy_check_mark:
-* [BeTheHero](https://github.com/venuziano/BeTheHero) - semana OmniStack da RocketSeat
-* [Proffys](https://github.com/venuziano/Proffys) - semana Next Level da RocketSeat
-* [RollDice](https://github.com/venuziano/RollDice) - jogo para rolar dados em js puro
-* [SmartAuth](https://github.com/venuziano/SmartAuth) - desenvolvido no TCC
-
 ### LOVE MEME'S :trollface: AND PIZZA :pizza:
 
 <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"></img>
