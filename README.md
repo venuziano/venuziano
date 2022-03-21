@@ -3,7 +3,16 @@
 
 ### Olá! 👋:man_technologist:
 
-Estudo e me aventuro no desenvolvimento de aplicações *web* e *app's* em **NodeJs**, **ReactJS** && **React Native**, **TypeScript** e aplicações descentralizadas (*dapp's*) com *smart contracts* na linguagem **Solidity**. :nerd_face: :books:
+Desenvolvedor Full-Stack :nerd_face: :books:
+
+* React
+* Next
+* Node.js
+* Nest
+* TypeScript
+* Bibliotecas UI
+* Jest
+* Banco SQl/NO-SQL
 
 Formado em Sistemas de Informação. :mortar_board:
 
