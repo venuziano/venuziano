@@ -1,24 +1,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelRodr1gues/)](https://www.linkedin.com/in/rafaelRodr1gues/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael.silva@universo.univates.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.silva@universo.univates.br)](mailto:rafael.silva@universo.univates.br)
 
-### Olá! 👋:man_technologist:
+### Hello! 👋:man_technologist:
 
-Desenvolvedor Full-Stack :nerd_face: :books:
+Full Stack Developer :nerd_face: :books:
 
 * React
 * Next
 * Node.js
 * Nest
 * TypeScript
-* Bibliotecas UI
+* UI Libraries
 * Jest
-* Banco SQl/NO-SQL
+* SQl/NO-SQL Databases
 
-Formado em Sistemas de Informação. :mortar_board:
+Information Systems Bachelor degree. :mortar_board:
 
-Amante e entusiasta da tecnologia Blockchain, onde a utilizei no meu trabalho de conclusão de curso. :cupid: :sparkling_heart:
-
-### LOVE MEME'S :trollface: AND PIZZA :pizza:
+Blockchain and JavaScript enthusiast and your whole ecosystem.. :cupid: :sparkling_heart:
 
 <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"></img>
 CODING!! CODING!! CODING!!
