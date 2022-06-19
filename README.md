@@ -12,7 +12,7 @@ Full Stack Developer :nerd_face: :books:
 * TypeScript
 * UI Libraries
 * Jest
-* SQl/NO-SQL Databases
+* SQL/NO-SQL Databases
 
 Information Systems Bachelor degree. :mortar_board:
 
