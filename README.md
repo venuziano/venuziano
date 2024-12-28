@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelRodr1gues/)](https://www.linkedin.com/in/rafaelRodr1gues/) 
 [![Gmail Badge](https://img.shields.io/badge/-raf4.rrs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raf4.rrs@gmail.com)](mailto:raf4.rrs@gmail.com)
 
-### Hello! 👋:man_technologist:
+### Hello! 👋
 
 Full Stack Developer :nerd_face: :books:
 
