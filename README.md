@@ -13,6 +13,7 @@ Full Stack Developer :nerd_face: :books:
 * UI Libraries
 * Jest
 * SQL/NO-SQL Databases
+* AWS
 
 Information Systems Bachelor degree. :mortar_board:
 
