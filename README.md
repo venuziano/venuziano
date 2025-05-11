@@ -3,17 +3,20 @@
 
 ### Hello! 👋
 
-Full Stack Developer :nerd_face: :books:
+Full Stack Engineer :nerd_face: :books:
 
 * React
 * Next
 * Node.js
 * Nest
 * TypeScript
-* UI Libraries
+* UI/CSS Libraries
 * Jest
 * SQL/NO-SQL Databases
 * AWS
+* Redis
+* Rest/GraphQL APIs
+* MVC, DDD + clean architectures patterns
 
 Information Systems Bachelor degree. :mortar_board:
 
